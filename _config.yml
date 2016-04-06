@@ -2,6 +2,7 @@ name: Auditorium
 favicon: null
 layout_spectrum: 0.8406118627171963
 typography_spectrum: 0.2354598029050976
+title: EPK
 cta:
   domain: null
   bucket: null

@@ -1,6 +1,6 @@
 name: Auditorium
 favicon: null
-layout_spectrum: 0.8406118627171963
+layout_spectrum: 0.25058
 typography_spectrum: 0.2354598029050976
 title: Auditorium
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#e4e4da'
+    - '#000000'
+    - '#dcd8cd'
+    - '#d4d0c7'
+    - '#cac3bc'
   brandStrength: 0.5457471662666649
   lightness: 0.8624427889008075
   saturation: 0.979693230940029
